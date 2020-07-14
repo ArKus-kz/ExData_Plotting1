@@ -4,7 +4,7 @@ library(dplyr)
 library(gridExtra)
 library(reshape2)
 
-setwd("C:/Users/ASUS/ExData_Plotting1")
+setwd("S:/Coursera/R/WD")
 
 powerdata1 <- read.table( "powerdata.txt", sep = " ", header = TRUE, stringsAsFactors = FALSE )
 
