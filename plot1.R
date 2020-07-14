@@ -3,8 +3,7 @@
 library(ggplot2)
 library(dplyr)
 
-# working directory of the git cloned file
-setwd("C:/Users/ASUS/ExData_Plotting1") 
+setwd("S:/Coursera/R/WD")
 
 # download and unzip the file
 fileurl   <- "https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip"
