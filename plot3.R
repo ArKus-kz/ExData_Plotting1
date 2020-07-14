@@ -3,7 +3,7 @@ library(ggplot2)
 library(dplyr)
 library(reshape2)
 
-setwd("C:/Users/ASUS/ExData_Plotting1")
+setwd("S:/Coursera/R/WD")
 
 powerdata1 <- read.table( "powerdata.txt", sep = " ", header = TRUE, stringsAsFactors = FALSE ) 
 options(stringsAsFactors = FALSE)
